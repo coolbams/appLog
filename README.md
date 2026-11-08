@@ -19,10 +19,10 @@ From GitHub (pin a version tag):
 
 ```bash
 # core only
-uv add "applog @ git+https://github.com/<you>/applog@v0.1.0"
+uv add "applog @ git+https://github.com/coolbams/appLog@v0.1.0"
 
 # with the FastAPI/Starlette middleware
-uv add "applog[fastapi] @ git+https://github.com/<you>/applog@v0.1.0"
+uv add "applog[fastapi] @ git+https://github.com/coolbams/appLog@v0.1.0"
 ```
 
 While developing it locally (edits show up instantly):
