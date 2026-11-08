@@ -1,0 +1,6 @@
+
+#Virtual Enviroment
+.venv/
+logs/
+
+__pycache__/
